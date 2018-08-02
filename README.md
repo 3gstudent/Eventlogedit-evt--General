@@ -25,9 +25,13 @@ The new evt files are saved as `c:\test\sys2.evt` and `c:\test\sys3.evt`(differe
 
 ### sys1.evt
 
+Number of events:9
 
 ### sys2.evt
 
+Number of events:8
+
+You can use evtDeleteRecordofFile.cpp to delete an eventlog record of sys1.evt.
 
 ---
 
